@@ -195,6 +195,30 @@ p {
     width: 100%;
     text-align: center;
 }
+
+.placeBox .content h3 a {
+    position: relative;
+    margin: 0;
+    padding: 10px;
+    background: rgba(0,0,0,.95);
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    width: 100%;
+    text-align: center;
+}
+
+.placeBox .content h3:hover a:hover{
+    position: relative;
+    margin: 0;
+    padding: 10px;
+    background: rgba(228, 228, 228, 0.95);
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+    width: 100%;
+    text-align: center;
+}
 .placeBox.content h3 span {
     font-size: 16px;
     font-weight: 500;

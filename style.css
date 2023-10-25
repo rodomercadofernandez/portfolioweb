@@ -196,9 +196,8 @@ p {
     text-align: center;
 }
 
-.placeBox .content a {
+a {
     color: #000;
-    style: none;
 }
 
 .placeBox.content h3 span {
